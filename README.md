@@ -72,8 +72,9 @@
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhar13012001&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikhar13012001&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shikhar13012001&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikhar13012001&theme=github_dark)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=shikhar13012001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
