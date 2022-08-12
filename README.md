@@ -1,8 +1,8 @@
-![Header](https://i.ibb.co/1dYHG5j/Shikhar-gupta.gif)
+![Header](https://i.ibb.co/yhVLHDd/Slide-16-9-1.png)
 
 ##### Hi, I'm Shikhar:
 
-- 🎓Pursuing Infirmation technology from ABV-IIITM Gwalior
+- 🎓Pursuing Information technology from ABV-IIITM Gwalior
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
