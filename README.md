@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Listening to Spotify Playing 🎧
+## Listening to Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/n2t0w86173zp2aublab2yhzpb)
 
@@ -69,8 +69,13 @@ Don't contact me!
 
   <h2 align="center"> Github Statistics 📈 </h2>
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhar13012001&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikhar13012001&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shikhar13012001&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikhar13012001&theme=github_dark)
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=shikhar13012001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+<div align="center" style="display:flex!important;justify-content:center!important;">
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhar13012001&theme=github_dark" style="width:100%;height:auto;min-height:300px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikhar13012001&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shikhar13012001&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikhar13012001&theme=github_dark" />
+ 
+</div>
+ 
+ ![github activity graph](https://activity-graph.herokuapp.com/graph?username=shikhar13012001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
