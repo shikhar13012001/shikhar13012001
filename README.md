@@ -9,19 +9,24 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shikhar13012001)
+
+### Contact with me 📝
+[shikhar13012001.apply@gmail.com](mailto:shikhar13012001.apply@gmail.com)
+<br />
+### View my resume here:
+[https://shikhar13012001.github.io/resume/](https://shikhar13012001.github.io/resume/)
+
+
 
 ## Listening to Spotify Playing 🎧
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/n2t0w86173zp2aublab2yhzpb)
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shikhar13012001)
-
-### Contact with me 📝
-Don't contact me!
-<br />
 
  ---
 ### Languages and Tools 🛠 
